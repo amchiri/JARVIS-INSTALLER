@@ -1,5 +1,5 @@
 {
-  "license_required": false,
+  "license_required": true,
   "min_required_version": "2.0.0",
   "kill_switch": true,
   "download_urls": {
