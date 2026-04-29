@@ -3,8 +3,6 @@
   "min_required_version": "2.0.0",
   "kill_switch": false,
   "download_urls": {
-    "backend": "https://dl.jarvisapi.fr/v2.0.0/backend.zip",
-    "whisper": "https://dl.jarvisapi.fr/v2.0.0/whisper.zip",
-    "piper": "https://dl.jarvisapi.fr/v2.0.0/piper.zip"
+    "backend": "https://dl.jarvisapi.fr/v2.0.0/backend.zip"
   }
 }
